@@ -17,6 +17,9 @@
     <string name="TextView5">¿Estado general de las terminaciones?</string>
     <string name="TextView6">Condominio</string>
     <string name="TextView7">Departamento</string>
+    <string name="TextView9">PUNTUACIÓN OBTENIDA:    </string>
+    <string name="TextView10">.........</string>
+    <string name="TextView11">Check Apartment</string>
     <string name="Button">GRABAR</string>
     <string name="Button2">ENVIAR REPORTE</string>
 </resources>
