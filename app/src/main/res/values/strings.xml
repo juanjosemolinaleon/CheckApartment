@@ -9,4 +9,14 @@
     <string name="hello_first_fragment">Ingrese mail</string>
     <string name="TextView">Ingrese contraseña</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="TextView1">¿Luces del apartamento están OK?</string>
+    <string name="TextView2">¿Elementos del baño están OK?</string>
+    <string name="TextView3">¿Elementos de la cocina están OK?</string>
+    <string name="TextView4">¿Elementos del dormitorio están OK?</string>
+    <string name="TextView5">¿Estado general de las terminaciones?</string>
+    <string name="TextView6">Condominio</string>
+    <string name="TextView7">Departamento</string>
+    <string name="Button">GRABAR</string>
+    <string name="Button2">ENVIAR REPORTE</string>
 </resources>
