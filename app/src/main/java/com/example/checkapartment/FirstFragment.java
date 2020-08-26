@@ -11,7 +11,13 @@ import androidx.navigation.fragment.NavHostFragment;
 
 public class FirstFragment extends Fragment {
 
+    public void validaPass (String pass){
+        if (pass.equals("123Pass")){
 
+
+        }
+
+    }
 
     @Override
     public View onCreateView(
