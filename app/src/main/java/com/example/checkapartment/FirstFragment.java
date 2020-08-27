@@ -13,8 +13,7 @@ public class FirstFragment extends Fragment {
 
     public void validaPass (String pass){
         if (pass.equals("123Pass")){
-
-
+            
         }
 
     }
